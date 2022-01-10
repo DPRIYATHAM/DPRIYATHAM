@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DPRIYATHAM
+- 👋 Hi, I’m @DARISI PRIYATHAM
 - 👀 I’m interested in music , coding .
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on some good interns and projets for beginners
