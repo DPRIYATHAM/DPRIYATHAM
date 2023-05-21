@@ -6,3 +6,6 @@
 
 My Badges
 [![@d_p's Holopin board](https://holopin.io/api/user/board?user=d_p)](https://holopin.io/@d_p)
+
+Stats:
+[![DPRIYATHAM's GitHub | Topics](https://stats.quine.sh/DPRIYATHAM/topics-over-time?theme=dark)](https://quine.sh)
