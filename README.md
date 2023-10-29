@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DARISI PRIYATHAM
 - 👀 I’m interested in music , coding .
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on some good interns and projets for beginners
+- 🌱 I’m currently focusing on Cyber Security.
+- 💞️ I’m looking to collaborate on Cyber Security Projects and Internships.
 - 📫 How to reach me , Mail Id: priyathamdarisi@gmail.com
 
 <h2 align="center">My Badges🎖️</h2>
